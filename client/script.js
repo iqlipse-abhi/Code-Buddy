@@ -61,7 +61,7 @@ const handleSubmit = async (e) => {
   // messageDiv.innerHTML = "..."
   loader(messageDiv);
   //here we are going to fetch data
-  const response = await fetch("http://localhost:3000", {
+  const response = await fetch("https://abhishek-iqi3.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
