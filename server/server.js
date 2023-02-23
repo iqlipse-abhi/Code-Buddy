@@ -37,3 +37,5 @@ app.post('/', async (req, res) => {
     }
   })
   app.listen(3000, () => console.log('AI server started on http://localhost:3000'))
+
+  //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
