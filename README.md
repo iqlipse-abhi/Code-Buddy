@@ -4,6 +4,7 @@
 <li>It is based on OpenAI text-davinci-3 model <br>which helps to generate clear and crisp well intended codes along with all the other capabilities that chat GPT (Generative Pre-trained Transformer).</li>
 
 <li>It is designed to help with coding-related questions and problems.</li>
+<li><b>Tech Stack: </b> HTML, CSS, Javascript, OpenAI.</li>
 </ul>
 <br>
 
