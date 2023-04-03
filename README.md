@@ -1,9 +1,12 @@
 # Code-Buddy
+<ul>
+<li>Code buddy is your programming buddy which will help you to generate a code for every coding problem. </li>
+<li>It is based on OpenAI text-davinci-3 model <br>which helps to generate clear and crisp well intended codes along with all the other capabilities that chat GPT (Generative Pre-trained Transformer).</li>
 
-Code buddy is your programming buddy which will help you to generate a code for every coding problem. <br>
-It is based on OpenAI text-davinci-3 model which helps to generate clear and crisp well intended codes along with all the other capabilities that chat GPT (Generative Pre-trained Transformer) language model has.  
+<li>It is designed to help with coding-related questions and problems.</li>
+</ul>
+<br>
 
-It is designed to help with coding-related questions and problems.
 ![image](https://user-images.githubusercontent.com/96901920/220951279-fdfbf656-c66a-4ef0-afc2-dd139ec5fd0f.png)
 
 Customization The chatbot's responses can be customized by modifying the data in the intents.json file. This file contains a list of potential user inputs and corresponding responses.
